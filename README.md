@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amitvermaio/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -80,9 +81,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
