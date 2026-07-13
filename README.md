@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/amitvermaio/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
