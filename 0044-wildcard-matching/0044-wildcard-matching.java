@@ -22,9 +22,8 @@ class Solution {
         if (p.charAt(j) == '*') {
             boolean opt1 = solve(s, p, i, j+1);
             boolean opt2 = solve(s, p, i+1, j);
-            boolean opt3 = solve(s, p, i+1, j+1);
-            dp[i][j] = opt1 || opt2 || opt3 ? 1 : 0; 
-            return opt1 || opt2 || opt3;
+            dp[i][j] = opt1 || opt2 ? 1 : 0; 
+            return opt1 || opt2;
         }
 
         dp[i][j] = isEq && solve(s, p, i+1, j+1) ? 1 : 0;
